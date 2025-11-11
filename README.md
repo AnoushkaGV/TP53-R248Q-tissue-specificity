@@ -31,5 +31,5 @@ Data and scripts are included for:
 
 ## Usage
 
-Clone this repository and run the provided R scripts or R Markdown files to reproduce the analyses and visualizations.
+Clone this repository and run the provided R scripts to reproduce the analyses and visualizations.
 
