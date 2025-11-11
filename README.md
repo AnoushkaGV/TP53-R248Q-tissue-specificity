@@ -1,4 +1,4 @@
-# BTGA S.410.635.01.FA25: TP53 SNP Analysis
+# BTGA AS.410.635.01.FA25: TP53 SNP Analysis
 
 **Team Members:**  
 - G V Anoushka Chinmayi 
